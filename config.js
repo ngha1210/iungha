@@ -5,7 +5,7 @@ var config = {
     texts: [
         "Chúc em năm mới thật nhiều sức khỏe và hạnh phúc",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
         "đây là giao thừa đầu tiên của anh với em",  // 同上...
-        "mong rẳng năm nào anh cũng được đón năm mới cùng em",
+        "mong rằng năm nào anh cũng được đón năm mới cùng em",
         "anh iu em",
         "cho dù đôi khi em hơi ngang",
         "cho dù tóc em có bết",
@@ -30,7 +30,7 @@ var config = {
     imgs: {
         "Chúc em năm mới thật nhiều sức khỏe và hạnh phúc": "./imgs/songxinxin.jpeg",
         "đây là giao thừa đầu tiên của anh với em": "./imgs/nothing.jpg",
-        "mong rẳng năm nào anh cũng được đón năm mới cùng em": "./imgs/nothing.jpg",
+        "mong rằng năm nào anh cũng được đón năm mới cùng em": "./imgs/nothing.jpg",
         "anh iu em": "./imgs/zaiyiqi.jpg",
         "cho dù đôi khi em hơi ngang": "./imgs/c1.jpg",
         "cho dù tóc em có bết": "./imgs/c2.jpg",
