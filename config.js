@@ -6,8 +6,8 @@ var config = {
         "Chúc em năm mới thật nhiều sức khỏe và hạnh phúc",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
         "đây là giao thừa đầu tiên của anh với em",  // 同上...
         "mong rằng năm nào anh cũng được đón năm mới cùng em",
-        "anh iu em",
-        "cho dù đôi khi em hơi ngang",
+        "anh yêu em",
+        "cho dù đôi khi em hơi ngang bướng",
         "cho dù tóc em có bết",
         "cho dù em ngủ ngáy",
         "vẫn",
@@ -31,8 +31,8 @@ var config = {
         "Chúc em năm mới thật nhiều sức khỏe và hạnh phúc": "./imgs/songxinxin.jpeg",
         "đây là giao thừa đầu tiên của anh với em": "./imgs/nothing.jpg",
         "mong rằng năm nào anh cũng được đón năm mới cùng em": "./imgs/nothing.jpg",
-        "anh iu em": "./imgs/zaiyiqi.jpg",
-        "cho dù đôi khi em hơi ngang": "./imgs/c1.jpg",
+        "anh yêu em": "./imgs/zaiyiqi.jpg",
+        "cho dù đôi khi em hơi ngang bướng": "./imgs/c1.jpg",
         "cho dù tóc em có bết": "./imgs/c2.jpg",
         "cho dù em ngủ ngáy": "./imgs/c3.jpg",
         "vẫn": "./imgs/c4.jpg",
@@ -57,5 +57,5 @@ var config = {
     },
 
     // 结束语
-    loveText: 'anh yêu emm~. From trung Hieu with love'
+    loveText: 'From Trung Hieu with love ♥'
 };
