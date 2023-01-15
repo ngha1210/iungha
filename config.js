@@ -57,5 +57,9 @@ var config = {
     },
 
     // 结束语
+<<<<<<< HEAD
     loveText: 'From Trung Hieu with love ♥'
+=======
+    loveText: 'From Trung Hieu with love'
+>>>>>>> 06c84c695073157e8c5b6ffd6785478d270d379e
 };
