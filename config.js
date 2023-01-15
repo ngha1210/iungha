@@ -57,5 +57,5 @@ var config = {
     },
 
     // 结束语
-    loveText: 'anh yêu emm~. From trung Hieu with love'
+    loveText: 'From Trung Hieu with love'
 };
